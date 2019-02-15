@@ -1,7 +1,7 @@
 ## Automated Datadog agent install across multiple hosts via Ansible
 
 ### Intended Audience
-This document has been created for a person reality new to using Ansible.  A more notice/expert Ansible user can still use the content provided to get a multihost Datadog agent install playbook working in a very short period of time.   Any questions/suggestions about the content of this document please feel free to reach out to ryan.hennessy@datadoghq.com
+This document has been created for a person relatively new to using Ansible.  A more notice/expert Ansible user can still use the content provided to get a multihost Datadog agent install playbook working in a very short period of time.   Any questions/suggestions about the content of this document please feel free to reach out to ryan.hennessy@datadoghq.com
 
 ### Introduction
 This document details the steps needed to install the Datadog agent across multiple hosts in your environment.  This is in no way a fully exhaustive step by step process in order to learn Ansible.   If further information is needed on any of these topics it is suggested that you review the Ansible documentation located at [docs.ansible.com](http://docs.ansible.com).  
